@@ -1,0 +1,8 @@
+1) keep (copy and paste) both alignment(*_out.txt) and hydrophobicity files(*.patch.txt) in one folder.
+2) paste "merge.pl" script in the same folder
+3) Assuming that you have installed PERL language's compiler, run following command:
+perl merge.pl
+4) Successfull completion will create an "merged_output" folder containing merged files.
+5) Merged files can be imported into excel sheet and colmns should be "short by number".
+
+DONE
